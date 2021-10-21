@@ -54,3 +54,4 @@ def tag2():
 
 
 print(tag2())
+print(tag1())
